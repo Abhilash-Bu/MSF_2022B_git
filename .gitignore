@@ -1,0 +1,2 @@
+#Files and folders for git to ignore
+__pycache__/
